@@ -1,0 +1,14 @@
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\bin\Debug\net8.0\PracovniZadaniV2.exe
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\bin\Debug\net8.0\PracovniZadaniV2.deps.json
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\bin\Debug\net8.0\PracovniZadaniV2.runtimeconfig.json
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\bin\Debug\net8.0\PracovniZadaniV2.dll
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\bin\Debug\net8.0\PracovniZadaniV2.pdb
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\obj\Debug\net8.0\PracovniZadaniV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\obj\Debug\net8.0\PracovniZadaniV2.AssemblyInfoInputs.cache
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\obj\Debug\net8.0\PracovniZadaniV2.AssemblyInfo.cs
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\obj\Debug\net8.0\PracovniZadaniV2.csproj.CoreCompileInputs.cache
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\obj\Debug\net8.0\PracovniZadaniV2.dll
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\obj\Debug\net8.0\refint\PracovniZadaniV2.dll
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\obj\Debug\net8.0\PracovniZadaniV2.pdb
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\obj\Debug\net8.0\PracovniZadaniV2.genruntimeconfig.cache
+C:\Users\MartinD\source\repos\PracovniZadaniV2\PracovniZadaniV2\obj\Debug\net8.0\ref\PracovniZadaniV2.dll
