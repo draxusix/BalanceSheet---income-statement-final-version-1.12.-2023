@@ -20,7 +20,7 @@ Možná vylepšení zahrnují implementaci dynamického přidávání/odebírán
 
 Licence:
 Tento projekt je volně dostupný a nepodléhá žádné specifické licenci.
-Tento projekt byl vytvořen s důrazem na pochopení a aplikaci různých kurzovních přepočtů pro specifické účetní položky. Díky zkušenostem získaným při řešení tohoto úkolu jsem se naučil, jaké kurzy se používají pro specifické položky a proč. Návrhový vzor Strategy byl použit pro definování přepočtů pro jednotlivé položky.
+Tento projekt byl vytvořen s důrazem na pochopení a aplikaci různých kurzovních přepočtů pro specifické účetní položky. Díky zkušenostem získaným při řešení tohoto úkolu jsem se naučil, jaké kurzy se používají pro specifické položky a proč.
 
 Závěr:
 Při zpracování zadání jsem měl z počátku problém zjistit a pochopit, co se myslí jednotlivými algoritmy kurzovního přepočtu. Nakonec jsem zjistil, jaké kurzy se využívají pro specifické položky a také proč - Na základě toho jsem pro Asset použil historický kurz z posledního čtvrtletí roku 2023, konkrétně z 10.11. a pro další položky kurz aktuální  - Vyjma položky PL, vysvětlení je obsaženo v komentářích uvnitř kódu. Zadání obsahovalo výsledkovou rozvahu pro poslední čtvrtletí roku 2023, nicméně kurz pro datum 31.12. 2023 jsem nemohl zjistit, proto jsem použil aktuální kurz ze dne 30.11. 2023. Všechny kurzy byly získány z oficiálních stránek ČNB. Jako návrhový vzor jsem si zvolil Strategy a využil jej pro definování přepočtů pro jednotlivé položky. 
