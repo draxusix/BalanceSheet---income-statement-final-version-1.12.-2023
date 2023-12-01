@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace PracovniZadaniV2
 {
+    //Třída definující objekt BalanceSheet, jakožto celkovou rozvahu obsahující seznam (list) položek (itemů)
     internal class BalanceSheet
     {
         public List<BalanceSheetItem> Items { get; set; }

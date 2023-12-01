@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MartinD\\source\\repos\\PracovniZadaniV2\\PracovniZadaniV2\\PracovniZadaniV2.csproj",
-      "projectName": "PracovniZadaniV2",
-      "projectPath": "C:\\Users\\MartinD\\source\\repos\\PracovniZadaniV2\\PracovniZadaniV2\\PracovniZadaniV2.csproj",
+      "projectUniqueName": "C:\\Users\\MartinD\\source\\repos\\PracovniZadaniV2\\PracovniZadaniV2\\BalanceSheet.csproj",
+      "projectName": "BalanceSheet",
+      "projectPath": "C:\\Users\\MartinD\\source\\repos\\PracovniZadaniV2\\PracovniZadaniV2\\BalanceSheet.csproj",
       "packagesPath": "C:\\Users\\MartinD\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\MartinD\\source\\repos\\PracovniZadaniV2\\PracovniZadaniV2\\obj\\",
       "projectStyle": "PackageReference",

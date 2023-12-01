@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace PracovniZadaniV2
 {
+    //Třída, která definuje objekt BalanceSheetItem - Každá položka má příslušné vlastnosti a metodu pro přepočet z CZK do EUR
     public class BalanceSheetItem
     {
         public string Name { get; set; }

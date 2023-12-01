@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 
 namespace PracovniZadaniV2
 {
+    //Třída pro přepočet u položky Asset
     public class AssetConversionStrategy : ICurrencyConversionStrategy
     {
-        private decimal exchangeRate = 0.123m; //kurz neni aktualni, doplnit
+        private decimal exchangeRate = 0.0407664085m; //kurz dle ČNB z 10.11. 2023
 
         public decimal ConvertToEUR(decimal amount)
         {
